@@ -1,6 +1,29 @@
 body{
-    background-image: url(green.jpg);
+    background-color: lightgreen;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+}
+.main{
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+h1, h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+a{
+    color: green;
+}
+a:hover{
+    color: darkred;
+}
+table{
+    border: 5px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
+tr{
+    text-align: center;
 }
