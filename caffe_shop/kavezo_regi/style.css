@@ -10,7 +10,8 @@ body{
     margin: auto;
 }
 h1, h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 a{
     color: green;
@@ -36,4 +37,12 @@ tr{
     background-color: white;
     color: grey;
     text-align: center;
- }
+}
+
+h2, h5{
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Varela', sans-serif;
+    color: rgb(23, 95, 23);
+}
