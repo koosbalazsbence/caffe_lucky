@@ -48,3 +48,8 @@ h2, h5{
     font-weight: bold;
     color: rgb(23, 95, 23);
 }
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
