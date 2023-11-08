@@ -1,0 +1,19 @@
+<nav class="navbar-dark bg-success"  >
+
+      
+      <h2>Kapcsolat</h2>
+      
+      <p> <img class="kiskepek " src="envelope.png" alt="boritek"> Lucky Kávézó</p>
+      <p> <img class="kiskepek" src="arroba.png" alt="boritek"> lucky@kavezo.hu  </p>
+      <p> <img class="kiskepek" src="old-typical-phone.png"> +36-1-555-55-55 </p>
+      
+<h2>Kávé Magazin</h2>
+<p>Iratkozzon fel a kávémagazinunkra!</p>
+
+       <nav class="navbar navbar-dark bg-success">
+        <form class="form-inline">
+          <input class="form-control mr-sm-2" type="E-mail" placeholder="E-mail" aria-label="E-mail">
+          <button class="btn btn-outline-success my-2 my-sm-0 text-white bg-light-success" type="submit">Felíratkozom</button>
+        </form>
+      </nav>
+    </nav>
