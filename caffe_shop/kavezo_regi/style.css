@@ -1,32 +1,33 @@
-body{
-    background-color: lightgreen;
+body {
     background-color: #fbeedb;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    margin: 0;
+    padding: 0;
 }
-.main{
+.main {
     text-align: center;
-    width: 600px;
+    max-width: 600px;
     margin: auto;
 }
-h1, h2{
+h1, h2, h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
-a{
+a {
     color: green;
+    text-decoration: none;
 }
 a:hover{
     color: darkred;
 }
-table{
-    border: 5px;
+table {
+    border: 1px solid black;
     padding: 10px;
-    align-items: center;
-    text-align: center;
+    margin: 0 auto;
 }
-tr{
+tr, td {
     text-align: center;
 }
 
@@ -35,6 +36,14 @@ tr{
     left: 0;
     bottom: 0;
     width: 100%;
+    background-color: white;
+    color: grey;
+    text-align: center;
+    z-index: 1000;
+    clear: both;
+}
+
+.navbar {
     background-color: white;
     color: grey;
     text-align: center;
