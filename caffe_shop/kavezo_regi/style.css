@@ -31,8 +31,7 @@ tr{
 }
 
 .footer {
-    position: relative;
-    /*position: fixed*/
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -52,5 +51,4 @@ h2, h5{
 
 h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
 }
