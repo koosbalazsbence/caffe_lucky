@@ -11,7 +11,7 @@ body {
     max-width: 600px;
     margin: auto;
 }
-h1, h2, h3 {
+h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
@@ -38,7 +38,7 @@ tr, td {
     width: 100%;
     background-color: white;
     color: grey;
-    text-align: center;
+    /* text-align: center; */
     z-index: 1000;
     clear: both;
 }
